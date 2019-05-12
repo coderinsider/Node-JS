@@ -1,1 +1,2 @@
-Hello Every one, have a good day for you.
+var myModule = require('./my-module.js');
+console.log(myModule.myText)
